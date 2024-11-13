@@ -1,0 +1,136 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "123-456-7890",
+      "bio": "This is John's bio."
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "phone": "987-654-3210",
+      "bio": "This is Jane's bio."
+    },
+    {
+      "id": "c804",
+      "username": "catherine",
+      "email": "cath@gmail.com",
+      "phone": "1234567890",
+      "address": "asdzfxgchjk",
+      "bio": "asdfghjknbvcxz",
+      "password": "123456"
+    },
+    {
+      "id": "3c34",
+      "username": "Aditi Raina",
+      "email": "aditiiraina895@gmail.com",
+      "phone": "905059555",
+      "address": "jiocfndffvr irfnfkldn",
+      "bio": "jfickd",
+      "password": "484"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "7005",
+      "hotelName": "Book My Stay",
+      "checkIn": "2024-10-29",
+      "checkOut": "2024-10-30",
+      "guests": "4"
+    },
+    {
+      "id": "0a41",
+      "hotelName": "Grand Hotel",
+      "checkIn": "2024-10-29",
+      "checkOut": "2024-10-30",
+      "guests": 1
+    },
+    {
+      "id": "81ec",
+      "hotelName": "Grand Hotel",
+      "checkIn": "2024-10-28",
+      "checkOut": "2024-10-29",
+      "guests": 1
+    },
+    {
+      "id": "da7c",
+      "hotelName": "Grand Hotel",
+      "checkIn": "2024-10-29",
+      "checkOut": "2024-10-30",
+      "guests": 1
+    },
+    {
+      "id": "c501",
+      "hotelName": "Grand Hotel",
+      "checkIn": "2024-10-30",
+      "checkOut": "2024-10-17",
+      "guests": "2"
+    },
+    {
+      "id": "925e",
+      "hotelName": "Grand Hotel",
+      "checkIn": "2024-10-29",
+      "checkOut": "2024-10-30",
+      "guests": 1
+    },
+    {
+      "id": "3ceb",
+      "hotelName": "Grand Hotel",
+      "checkIn": "2024-10-23",
+      "checkOut": "2024-10-31",
+      "guests": 1
+    },
+    {
+      "id": "46d6",
+      "hotelName": "Grand Hotel",
+      "checkIn": "2024-10-28",
+      "checkOut": "2024-10-30",
+      "guests": 1
+    },
+    {
+      "id": "eee3",
+      "hotelName": "Grand Hotel",
+      "checkIn": "2024-10-21",
+      "checkOut": "2024-10-28",
+      "guests": 1
+    },
+    {
+      "id": "4fa4",
+      "hotelName": "Grand Hotel",
+      "checkIn": "2024-10-28",
+      "checkOut": "2024-10-29",
+      "guests": 1
+    },
+    {
+      "id": "a5bc",
+      "hotelName": "Grand Hotel",
+      "checkIn": "2024-10-30",
+      "checkOut": "2024-10-30",
+      "guests": 1
+    },
+    {
+      "id": "78ab",
+      "hotelName": "Grand Hotel",
+      "checkIn": "2024-09-12",
+      "checkOut": "2024-12-13",
+      "guests": 1
+    },
+    {
+      "id": "ba27",
+      "hotelName": "Grand Hotel",
+      "checkIn": "2024-10-30",
+      "checkOut": "2024-10-31",
+      "guests": 1
+    },
+    {
+      "id": "92a9",
+      "hotelName": "Grand Hotel",
+      "checkIn": "2004-12-12",
+      "checkOut": "2004-12-12",
+      "guests": 1
+    }
+  ]
+}

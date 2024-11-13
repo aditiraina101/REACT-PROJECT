@@ -1,0 +1,67 @@
+/* App.css */
+
+.book-room-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  input[type='text'],
+  input[type='date'],
+  input[type='number'] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  input:focus {
+    outline: none;
+    border-color: #007bff;
+  }
+  
+  .btn.submit-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .btn.submit-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .success {
+    color: green;
+    text-align: center;
+    margin: 10px 0;
+  }
+  
+  .error {
+    color: red;
+    text-align: center;
+    margin: 10px 0;
+  }
+  
